@@ -3,8 +3,10 @@ My name is Abed, I am currently pursuing my bachelor’s degree at Haifa Univers
 
 🔭 I’m currently looking for new opportunities .
  
-### :programming Languages I Work With
+### Programming Languages I Work With
  C | C++ | Java | Python
+ 
+ 
 <!--
 **AbedIdres/AbedIdres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
