@@ -1,9 +1,14 @@
 ### Hi there 👋
+My name is Abed, I am currently pursuing my bachelor’s degree at Haifa University :mortar_board: . Hobbies include reading books :books: , PC gaming  :video_game: and watching comedy movies :movie_camera: .
 
+🔭 I’m currently looking for new opportunities .
+ 
+### :programming Languages I Work With
+ C | C++ | Java | Python
 <!--
 **AbedIdres/AbedIdres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
